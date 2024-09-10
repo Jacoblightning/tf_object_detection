@@ -48,7 +48,7 @@ install_requires = [
     'pillow',
     'lxml',
     # replacement for pycocotools, as the published pypi package fails on cython and numpy dependencies
-    'pycocotools-fix',
+    'pycocotools',
     'jupyter',
     'matplotlib'
 ]
